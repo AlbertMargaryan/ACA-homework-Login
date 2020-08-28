@@ -1,0 +1,27 @@
+body {
+  background: url(http://api.thumbr.it/whitenoise-361x370.png?background=333636ff&noise=453f45&density=100&opacity=100);
+}
+.login-container {
+  padding: 0;
+  width: 25%;
+  height: 320px;
+  background: #ECF0F1;
+  position: relative;
+  border-radius: 6px;
+}
+.login-text {
+  font-size: 40px;
+  margin: 10px 0;
+  text-align: center;
+  color: #48505E;
+}
+a {
+  color: #81A0B2;
+  font-size: 12px;
+  text-align: center;
+  margin: 0 auto;
+  text-decoration: underline;
+}
+.link-container {
+  text-align: center;
+}

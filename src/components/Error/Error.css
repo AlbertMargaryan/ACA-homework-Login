@@ -1,0 +1,13 @@
+.error{
+	background-color: #E84C3D;
+	display: inline-block;
+	font-size: 10px;
+	position:absolute;
+	top: 42px;
+	left: 20%;
+	color: #eee;
+	border-radius: 5px;
+}
+p {
+	margin: 3px;
+}
